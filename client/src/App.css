@@ -1,0 +1,186 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  /* border: 1px solid; */
+}
+
+/* .Users{
+  display: flex;
+  flex-wrap: wrap;  
+  justify-content: space-between;
+  text-align: center;
+  width: 90%;
+} */
+
+/* GET ALL CUSTOMERS */
+/* #add-customer-personal-info{
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  padding-bottom: 10px;
+}
+
+#show-all-customers{
+  display:flex;
+  flex-direction: column;
+  width:150px;
+}
+
+.customer{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+} */
+
+/* FIND CUSTOMER BY ID */
+#find-customer-by-id{
+  display:flex;
+  flex-direction: column;
+  width:150px;
+}
+
+/* FIND BY ID and UPDATE */
+#update-personal-info-by-id{
+  display:flex;
+  flex-direction: column;
+  width:150px;
+}
+
+/* ADD CARD PAYMENT */
+/* #add-payment-info{
+  display:flex;
+  flex-direction: column;
+  width:150px;
+  padding: 10px;
+} */
+
+
+
+/* SHOW INVENTORY */
+/* .show-all-inventory{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 50%;  
+} */
+
+/* .product{
+  display:flex;
+  flex-direction: column;
+  width: 150px;
+  padding-bottom: 20px;;
+} */
+
+/* #remove-from-cart{
+  display: none;
+} */
+
+/* SHOPPING CART */
+#shopping-cart{
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+  width:200px;
+  border: 1px solid;
+}
+
+#product-cart{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 10px;
+  border: 1px solid cornflowerblue;
+}
+
+#policy-name{
+  width: 80%;
+}
+
+#product-cart-price-after-payment{
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  /* border: 2px solid; */
+}
+
+#product-cart-price-before-payment{
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  /* border: 2px solid; */
+}
+
+#product-cart-price{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  /* border: 1px solid; */
+}
+
+#product-cart-checkbox-container{
+  display:flex;
+  flex-direction: column;
+}
+
+#checkboxes{
+  display:flex;
+align-items: center;
+  height: 20px;
+  /* border: 1px solid; */
+}
+
+#payment-input{
+  display: none;
+  width: 70px;
+}
+
+#submit-partial-payment{
+  display: none;
+}
+
+#reset-partial-payment{
+  display: none;
+}
+
+/* Confirmation Page */
+#fconfirmation-page{
+  display:flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+#confirmation-container{
+  display: flex
+}
+
+#confirmation-container-column{
+  display:flex;
+  flex-direction: column;
+  width: 200px;
+  padding: 15px;
+  /* border: 1px solid; */
+}
+
+#confirmation-product{
+  border-bottom: 1px solid;
+}
+
+#payment-confirmation{
+  display: flex;
+  flex-direction: column;
+}
+
+#display-confirmation-line-item{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+
+

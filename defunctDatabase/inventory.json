@@ -1,0 +1,22 @@
+{
+    "policies_by_name":[
+        {
+            "id": 1,
+            "policy": "Wealth & Health",
+            "price": 3075
+
+        },
+        {
+            "id": 2,
+            "policy": "Catastrophic Emergency Fund",
+            "price": 2077
+
+        },
+        {
+            "id": 3,
+            "policy": "Dental, Medical & Employer Plus",
+            "price": 2169
+
+        }
+  ]
+}

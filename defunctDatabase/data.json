@@ -1,0 +1,216 @@
+{
+  "customers": [
+    {
+      "_id": "8490773238",
+      "name": "Witty",
+      "phone": "745-631-6404",
+      "address": "5 Roth Park",
+      "email": "ushayes2@state.tx.us",
+      "gender": "Male",
+      "balance": "$1630.16",
+      "company": "Klein, Padberg and Bruen",
+      "username": "dtolworth2",
+      "password": "Uia5HH",
+      "isActive": false,
+      "policies": [],
+      "paymentmethods": [],
+      "friends": [
+        "Udale",
+        "Ronny",
+        "Frazier",
+        "Enrique",
+        "Dew"
+      ]
+    },
+    {
+      "_id": "7708275873",
+      "name": "Celestia",
+      "phone": "370-497-4191",
+      "address": "44514 Walton Drive",
+      "email": "nbelson3@nbcnews.com",
+      "gender": "Female",
+      "balance": "$4699.01",
+      "company": "Cassin-Spencer",
+      "username": "cpollins3",
+      "password": "J612oF0jl",
+      "isActive": true,
+      "policies": [],
+      "paymentmethods": [],
+      "friends": [
+        "Christi",
+        "Nissy",
+        "Shayna",
+        "Cecily",
+        "Eugenie"
+      ]
+    },
+    {
+      "_id": "0414447174",
+      "name": "Jesse",
+      "phone": "278-253-8165",
+      "address": "658 Dorton Hill",
+      "email": "awillshaw4@apple.com",
+      "gender": "Male",
+      "balance": "$2238.13",
+      "company": "Satterfield-Roob",
+      "username": "dslimmon4",
+      "password": "JbEDFHcb",
+      "isActive": true,
+      "policies": [],
+      "paymentmethods": [],
+      "friends": [
+        "Boy",
+        "Winfield",
+        "Reinald",
+        "Stephan",
+        "Kirk"
+      ]
+    },
+    {
+      "_id": "7012685441",
+      "name": "Karoly",
+      "phone": "585-999-7912",
+      "address": "4523 Memorial Lane",
+      "email": "jbayston5@hatena.ne.jp",
+      "gender": "Female",
+      "balance": "$6899.32",
+      "company": "Kunze-Hansen",
+      "username": "vprosek5",
+      "password": "OYtMNtK5uy",
+      "isActive": true,
+      "policies": [],
+      "paymentmethods": [],
+      "friends": [
+        "Ethelyn",
+        "Stefa",
+        "Kissie",
+        "Lindi",
+        "Shanna"
+      ]
+    },
+    {
+      "_id": "5666383965",
+      "name": "Diarmid",
+      "phone": "581-156-4672",
+      "address": "09153 Thierer Parkway",
+      "email": "btrodd6@quantcast.com",
+      "gender": "Male",
+      "balance": "$4140.02",
+      "company": "Muller Group",
+      "username": "cmcgroarty6",
+      "password": "eIG65da",
+      "isActive": false,
+      "policies": [],
+      "paymentmethods": [],
+      "friends": [
+        "Ahmad",
+        "Ernie",
+        "Julian",
+        "Lindy",
+        "Alvan"
+      ]
+    },
+    {
+      "_id": "0433337362",
+      "name": "Sena",
+      "phone": "950-523-1212",
+      "address": "020 Blue Bill Park Junction",
+      "email": "ktaig7@hibu.com",
+      "gender": "Female",
+      "balance": "$2877.03",
+      "company": "Walsh, Grant and McLaughlin",
+      "username": "blogesdale7",
+      "password": "qjdhJhvxbw",
+      "isActive": false,
+      "policies": [],
+      "paymentmethods": [],
+      "friends": [
+        "Manya",
+        "Grete",
+        "Kimberli",
+        "Danyette",
+        "Paule"
+      ]
+    },
+    {
+      "_id": "7094864299",
+      "name": "Rogerio",
+      "phone": "878-852-6083",
+      "address": "684 Miller Pass",
+      "email": "dbrockest8@bravesites.com",
+      "gender": "Male",
+      "balance": "$1563.25",
+      "company": "Lueilwitz, Bergstrom and Vandervort",
+      "username": "hglaserman8",
+      "password": "n4DLoi",
+      "isActive": true,
+      "policies": [],
+      "paymentmethods": [],
+      "friends": [
+        "Devlen",
+        "Bev",
+        "Hilary",
+        "Arthur",
+        "Garry"
+      ]
+    },
+    {
+      "_id": "7698864650",
+      "name": "Noble",
+      "phone": "624-854-1282",
+      "address": "908 Armistice Hill",
+      "email": "cyerrill9@seesaa.net",
+      "gender": "Male",
+      "balance": "$2448.89",
+      "company": "Sawayn-Lowe",
+      "username": "hchishull9",
+      "password": "djMRwEqZEfM",
+      "isActive": false,
+      "policies": [],
+      "paymentmethods": [],
+      "friends": [
+        "Paulo",
+        "Zerk",
+        "Brodie",
+        "Al",
+        "Raffaello"
+      ]
+    },
+    {
+      "_id": "7698864651",
+      "name": "Warren Buffet",
+      "gender": "male",
+      "address": "123 main street",
+      "phone": "555 555 5555",
+      "username": "username",
+      "password": "password",
+      "paymentmethods": [],
+      "policies": [],
+      "friends": []
+    },
+    {
+      "_id": "7698864652",
+      "name": "",
+      "gender": "",
+      "address": "",
+      "phone": "",
+      "username": "",
+      "password": "",
+      "paymentmethods": [],
+      "policies": [],
+      "friends": []
+    },
+    {
+      "_id": "7698864653",
+      "name": "Billy Bob",
+      "gender": "Male",
+      "address": "123 Main",
+      "phone": "555 555 555",
+      "username": "billy",
+      "password": "bob",
+      "paymentmethods": [],
+      "policies": [],
+      "friends": []
+    }
+  ]
+}

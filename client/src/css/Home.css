@@ -1,0 +1,57 @@
+
+ 
+.home-background{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    /* background-image: url("/src/components/images/Family.jpg"); */
+    background-image: linear-gradient(to left,rgba(255,255,255,0.3),rgba(255, 255, 255,0.9)), url("/src/components/images/Family.jpg");
+    background-size: cover;
+    /* opacity: 0.2; */
+    /* background-size: contain; */
+    background-attachment: fixed;
+    background-position: center;
+    /* background-position: -50px 50px; */
+    background-repeat: no-repeat;
+
+}
+.Home{
+    text-align: center;
+    width: 80%;
+}
+
+.Home p{
+    font-size: 30px;
+    font-weight: 700;
+    color:  rgb(202, 49, 35);
+}
+ 
+ .options{
+        display: flex;
+        justify-content: space-between;
+        /* border: 1px solid; */
+        width: 100%;
+        padding: 10px;
+      }
+
+    .options > button{
+    margin: 30px;
+    text-align: center;
+    background-color: rgba(70, 135, 195, .9);
+    color: rgb(248, 241, 241);
+    font-weight: 500;
+    font-size: 20px;
+    /* height: 30px; */
+    /* padding-left: 15px;
+    padding-right: 15px; */
+    padding: 10px;
+    /* width: 30%; */
+    border: none;
+    /* border-radius: 15px; */
+    }
+
+    .options > button:hover{
+        color: white;
+        background-color: rgb(0, 0, 244, .7);
+    }
+      

@@ -1,0 +1,107 @@
+/* SHOPPING CART */
+#shopping-cart{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    width:270px;
+    border: 1px solid silver;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, .3);
+  }
+
+#shopping-cart, span{
+    color: black;
+  }
+  
+  #product-cart{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding-bottom: 10px;
+    border: 1px solid silver;
+  }
+  
+  #policy-name{
+    width: 80%;
+  }
+  
+  #product-cart-price-after-payment{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    /* border: 2px solid; */
+  }
+  
+  #product-cart-price-before-payment{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    /* border: 2px solid; */
+  }
+  
+  #product-cart-price{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    /* border: 1px solid; */
+  }
+  
+  #product-cart-checkbox-container{
+    display:flex;
+    flex-direction: column;
+  }
+  
+  #checkboxes{
+    display:flex;
+  align-items: center;
+    height: 20px;
+    /* border: 1px solid; */
+  }
+  
+  #payment-input{
+    display: none;
+    width: 70px;
+  }
+  
+  #submit-partial-payment{
+    display: none;
+  }
+  
+  #reset-partial-payment{
+    display: none;
+  }
+  
+  /* Confirmation Page */
+  #fconfirmation-page{
+    display:flex;
+    flex-direction: column;
+    width: 300px;
+  }
+  
+  #confirmation-container{
+    display: flex
+  }
+  
+  #confirmation-container-column{
+    display:flex;
+    flex-direction: column;
+    width: 200px;
+    padding: 15px;
+    /* border: 1px solid; */
+  }
+  
+  #confirmation-product{
+    border-bottom: 1px solid;
+  }
+  
+  #payment-confirmation{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #display-confirmation-line-item{
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  
